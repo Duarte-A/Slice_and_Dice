@@ -5,12 +5,11 @@ Saved/Logs/Slice_and_Dice.log
 Intermediate/CachedAssetRegistry.bin
 Saved/Autosaves/PackageRestoreData.json
 Saved/Autosaves/PackageRestoreData.json
-Saved/Config/Windows/Engine.ini
+
 Saved/Logs/Slice_and_Dice.log
 Intermediate/CachedAssetRegistry.bin
 Saved/Autosaves/PackageRestoreData.json
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Config/Windows/Engine.ini
 Saved/Logs/Slice_and_Dice.log
 Saved/Logs/Slice_and_Dice.log
 Saved/Logs/Slice_and_Dice-backup-2022.11.01-00.14.11.log
@@ -19,8 +18,7 @@ Saved/Logs/Slice_and_Dice-backup-2022.10.31-21.39.22.log
 Saved/Crashes/UE4CC-Windows-7D55446A45C8E179B891CDA188C06E24_0000/Slice_and_Dice.log
 Saved/Crashes/UE4CC-Windows-7D55446A45C8E179B891CDA188C06E24_0000/CrashReportClient.ini
 Saved/Crashes/UE4CC-Windows-7D55446A45C8E179B891CDA188C06E24_0000/CrashContext.runtime-xml
-Saved/Config/Windows/Engine.ini
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
+
 Saved/Config/CrashReportClient/UE4CC-Windows-F42BA09E4AEE2395B43990AF31D90598/CrashReportClient.ini
 Saved/Config/CrashReportClient/UE4CC-Windows-7D55446A45C8E179B891CDA188C06E24/CrashReportClient.ini
 Saved/Config/CrashReportClient/UE4CC-Windows-643494F44D0438246D21FEA9BAA4A270/CrashReportClient.ini
@@ -32,4 +30,4 @@ Intermediate/
 
 Saved/
 
-Config/
+
